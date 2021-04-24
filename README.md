@@ -8,4 +8,4 @@ AUTHOR This project is created by Antara Gupta.
 
 Source: https://github.com/Antara25-10/Coffee-Blend
 
-Deployed link:
+Deployed link: https://antara25-10.github.io/Coffee-Blend/
